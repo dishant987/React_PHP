@@ -2,5 +2,5 @@
 
 reactAPI_Phpfiles 
 <h1>install wampserver</h1>
-make folder in main wampserver file wamp64/www 
-and paste php files in www folder
+<p> make folder in main wampserver file <b>wamp64/www</b> </p>
+<p>And paste php files in www folder</p>
